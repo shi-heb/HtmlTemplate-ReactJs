@@ -9,7 +9,7 @@ return (
 		
 		<nav class="top_nav d-flex pt-4">
 			<h1>
-				<a class="navbar-brand" href="index.html">Interior Decor
+				<a class="navbar-brand" href="/Home">Interior Decor
 				</a>
 			</h1>
 			
@@ -43,22 +43,22 @@ return (
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link scroll" href="#about">About</a>
+						<a class="nav-link scroll" href="/">About</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link scroll" href="#furniture">Furniture</a>
+						<a class="nav-link scroll" href="/">Furniture</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link scroll" href="#pricing">Pricing</a>
+						<a class="nav-link scroll" href="/">Pricing</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="/products" Link to ="/products">Products Page</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link scroll" href="#team">Team</a>
+						<a class="nav-link scroll" href="/">Team</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link scroll" href="#contact">Contact</a>
+						<a class="nav-link scroll" href="/">Contact</a>
 					</li>
 				</ul>
 			</div>

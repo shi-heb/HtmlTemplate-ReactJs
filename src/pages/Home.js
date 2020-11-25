@@ -24,7 +24,7 @@ render(){
 				<div class="col-lg-6 col-md-8 banner-para">
 					<p class="">Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium nulla malesuada sedint.
 					Suspendisse venenatis</p>
-					<a href="#myModal_btn1" data-toggle="modal" data-target="#myModal_btn1">Read More</a>
+					<a href="/" data-toggle="modal" data-target="#myModal_btn1">Read More</a>
 				</div>
 				<div class="col-lg-3 col-md-2">
 					<img src="assets/images/chair.png" class="img-fluid" alt="" />
@@ -32,7 +32,7 @@ render(){
 			</div>
 			<div class="thim-click-to-bottom text-center">
 				<div class="rotate">
-					<a href="#about" class="scroll">
+					<a href="/" class="scroll">
 					   <i class="fas fa-angle-double-down"></i>
 					</a>
 				</div>
@@ -90,7 +90,7 @@ render(){
 									Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing
 									elit utpretium nulla malesuada sedint. Suspendisse venenatis.
 								</p>
-								<a href="#">Read More</a>
+								<a href="/">Read More</a>
 							</div>
 						</li>
 						<li>
@@ -104,7 +104,7 @@ render(){
 									rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing
 									elit utpretium nulla malesuada sedint. Suspendisse venenatis.
 								</p>
-								<a href="#">Read More</a>
+								<a href="/">Read More</a>
 							</div>
 						</li>
 						<li>
@@ -118,7 +118,7 @@ render(){
 									Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing
 									elit utpretium nulla malesuada sedint. Suspendisse venenatis.
 								</p>
-								<a href="#">Read More</a>
+								<a href="/">Read More</a>
 							</div>
 						</li>
 					</ul>
@@ -189,13 +189,13 @@ render(){
 				<div class="tabs">
 					<ul class="nav nav-pills my-md-5 my-3 justify-content-center" id="pills-tab" role="tablist">
 						<li class="nav-item border-style1">
-							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Weekly</a>
+							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="/" role="tab" aria-controls="pills-home" aria-selected="true">Weekly</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Monthly</a>
+							<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="/" role="tab" aria-controls="pills-profile" aria-selected="false">Monthly</a>
 						</li>
 						<li class="nav-item border-style2">
-							<a class="nav-link" id="pills-annual-tab" data-toggle="pill" href="#pills-annual" role="tab" aria-controls="pills-annual" aria-selected="false">Yearly</a>
+							<a class="nav-link" id="pills-annual-tab" data-toggle="pill" href="/" role="tab" aria-controls="pills-annual" aria-selected="false">Yearly</a>
 						</li>
 					</ul>
 					<div class="tab-content" id="pills-tabContent">
@@ -217,7 +217,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr1" href="#contact">Select</a>
+												<a class="btn scroll price-clr1" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -236,7 +236,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr2" href="#contact">Select</a>
+												<a class="btn scroll price-clr2" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -255,7 +255,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr3" href="#contact">Select</a>
+												<a class="btn scroll price-clr3" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -280,7 +280,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr4" href="#contact">Select</a>
+												<a class="btn scroll price-clr4" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -299,7 +299,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr5" href="#contact">Select</a>
+												<a class="btn scroll price-clr5" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -318,7 +318,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr6" href="#contact">Select</a>
+												<a class="btn scroll price-clr6" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -343,7 +343,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr7" href="#contact">Select</a>
+												<a class="btn scroll price-clr7" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -362,7 +362,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr8" href="#contact">Select</a>
+												<a class="btn scroll price-clr8" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -381,7 +381,7 @@ render(){
 												<li><i class="fas mr-1 fa-align-left"></i> High Quality</li>
 											</ul>
 											<div class="log-in mt-md-3 mt-2">
-												<a class="btn scroll price-clr9" href="#contact">Select</a>
+												<a class="btn scroll price-clr9" href="/">Select</a>
 											</div>
 										</div>
 									</div>
@@ -401,16 +401,16 @@ render(){
 		<h3 class="heading mb-5 text-center"> Team Members</h3>
 		<ul class="nav nav-pills mb-3" id="pills-tab1" role="tablist">
 			<li class="nav-item">
-				<a class="nav-link active" id="pills-team1-tab" data-toggle="pill" href="#pills-team1" role="tab" aria-controls="pills-team1" aria-selected="true"><img src="images/team1.png" class="img-fluid" alt="" /></a>
+				<a class="nav-link active" id="pills-team1-tab" data-toggle="pill" href="/" role="tab" aria-controls="pills-team1" aria-selected="true"><img src="images/team1.png" class="img-fluid" alt="" /></a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" id="pills-team2-tab" data-toggle="pill" href="#pills-team2" role="tab" aria-controls="pills-team2" aria-selected="false"><img src="images/team2.png" class="img-fluid" alt="" /></a>
+				<a class="nav-link" id="pills-team2-tab" data-toggle="pill" href="/" role="tab" aria-controls="pills-team2" aria-selected="false"><img src="images/team2.png" class="img-fluid" alt="" /></a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" id="pills-team3-tab" data-toggle="pill" href="#pills-team3" role="tab" aria-controls="pills-team3" aria-selected="false"><img src="images/team3.png" class="img-fluid" alt="" /></a>
+				<a class="nav-link" id="pills-team3-tab" data-toggle="pill" href="/" role="tab" aria-controls="pills-team3" aria-selected="false"><img src="images/team3.png" class="img-fluid" alt="" /></a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" id="pills-team4-tab" data-toggle="pill" href="#pills-team4" role="tab" aria-controls="pills-team4" aria-selected="false"><img src="images/team4.png" class="img-fluid" alt="" /></a>
+				<a class="nav-link" id="pills-team4-tab" data-toggle="pill" href="/" role="tab" aria-controls="pills-team4" aria-selected="false"><img src="images/team4.png" class="img-fluid" alt="" /></a>
 			</li>
 		</ul>
 		<div class="tab-content" id="pills-tabContent1">
@@ -426,10 +426,10 @@ render(){
 						nisi ut ipsum egestas, et pellentesque velit convallis. Phasellus rhoncus tempus. </p>
 						<p class="share"><span class="fas fa-share-alt"></span></p>
 						<ul class="social">
-							<li class="mr-1"><a href="#" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
-							<li class="mx-1"><a href="#" class="twitter"><span class="fab fa-twitter"></span></a></li>
-							<li class="mx-1"><a href="#" class="google"><span class="fab fa-google-plus-g"></span></a></li>
-							<li class="mx-1"><a href="#" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
+							<li class="mr-1"><a href="/" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
+							<li class="mx-1"><a href="/" class="twitter"><span class="fab fa-twitter"></span></a></li>
+							<li class="mx-1"><a href="/" class="google"><span class="fab fa-google-plus-g"></span></a></li>
+							<li class="mx-1"><a href="/" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -446,10 +446,10 @@ render(){
 						nisi ut ipsum egestas, et pellentesque velit convallis. Phasellus rhoncus tempus. </p>
 						<p class="share"><span class="fas fa-share-alt"></span></p>
 						<ul class="social">
-							<li class="mr-1"><a href="#" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
-							<li class="mx-1"><a href="#" class="twitter"><span class="fab fa-twitter"></span></a></li>
-							<li class="mx-1"><a href="#" class="google"><span class="fab fa-google-plus-g"></span></a></li>
-							<li class="mx-1"><a href="#" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
+							<li class="mr-1"><a href="/" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
+							<li class="mx-1"><a href="/" class="twitter"><span class="fab fa-twitter"></span></a></li>
+							<li class="mx-1"><a href="/" class="google"><span class="fab fa-google-plus-g"></span></a></li>
+							<li class="mx-1"><a href="/" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -466,10 +466,10 @@ render(){
 						nisi ut ipsum egestas, et pellentesque velit convallis. Phasellus rhoncus tempus. </p>
 						<p class="share"><span class="fas fa-share-alt"></span></p>
 						<ul class="social">
-							<li class="mr-1"><a href="#" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
-							<li class="mx-1"><a href="#" class="twitter"><span class="fab fa-twitter"></span></a></li>
-							<li class="mx-1"><a href="#" class="google"><span class="fab fa-google-plus-g"></span></a></li>
-							<li class="mx-1"><a href="#" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
+							<li class="mr-1"><a href="/" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
+							<li class="mx-1"><a href="/" class="twitter"><span class="fab fa-twitter"></span></a></li>
+							<li class="mx-1"><a href="/" class="google"><span class="fab fa-google-plus-g"></span></a></li>
+							<li class="mx-1"><a href="/" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -486,10 +486,10 @@ render(){
 						nisi ut ipsum egestas, et pellentesque velit convallis. Phasellus rhoncus tempus. </p>
 						<p class="share"><span class="fas fa-share-alt"></span></p>
 						<ul class="social">
-							<li class="mr-1"><a href="#" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
-							<li class="mx-1"><a href="#" class="twitter"><span class="fab fa-twitter"></span></a></li>
-							<li class="mx-1"><a href="#" class="google"><span class="fab fa-google-plus-g"></span></a></li>
-							<li class="mx-1"><a href="#" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
+							<li class="mr-1"><a href="/" class="facebook"><span class="fab fa-facebook-f"></span></a></li>
+							<li class="mx-1"><a href="/" class="twitter"><span class="fab fa-twitter"></span></a></li>
+							<li class="mx-1"><a href="/" class="google"><span class="fab fa-google-plus-g"></span></a></li>
+							<li class="mx-1"><a href="/" class="linkedin"><span class="fab fa-linkedin-in"></span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -499,7 +499,7 @@ render(){
 </section>
 
 <section class="agileits-w3layouts-map">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9503398796587!2d-73.9940307!3d40.719109700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1441710758555" allowfullscreen=""></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9503398796587!2d-73.9940307!3d40.719109700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1441710758555" allowfullscreen="" title="titl"></iframe>
 </section>
 
 <section class="contact py-5" id="contact">
