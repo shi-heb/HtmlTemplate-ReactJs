@@ -55,7 +55,7 @@ class After extends Component {
 							
 						</form>
 						<p class="text-center mt-3">Already a member?
-							<a href="" data-toggle="modal" data-target="#exampleModal1" class="text-dark login_btn">
+							<a href="/" data-toggle="modal" data-target="#exampleModal1" class="text-dark login_btn">
 								Login Now</a>
 						</p>
 						
@@ -113,7 +113,7 @@ class After extends Component {
 				</button>
 			</div>
 			<div class="modal-body">
-				<img src="images/banner.jpg" class="img-fluid mb-3" alt="Modal Image"/>
+				<img src="images/banner.jpg" class="img-fluid mb-3" alt="Modal"/>
 				Vivamus eget est in odio tempor interdum. Mauris maximus fermentum arcu, ac finibus ante. Sed mattis risus at ipsum elementum,
 				ut auctor turpis cursus. Sed sed odio pharetra, aliquet velit cursus, vehicula enim. Mauris porta aliquet magna, eget laoreet ligula.
 				Sed mattis risus at ipsum elementum, ut auctor turpis cursus.

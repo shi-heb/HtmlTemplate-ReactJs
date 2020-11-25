@@ -26,7 +26,7 @@ return (
 						<h5>$210</h5>
 						<p class="mt-4">Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium nulla malesuada sedint.
 						Suspendisse venenatis</p>
-						<a href="#">Know More </a>
+						<a href="/">Know More </a>
 					</div>
 				</div>
 			</div>
@@ -44,7 +44,7 @@ return (
 					<img src="assets/images/s4.png" class="img-fluid" alt="" />
 					<h4 class="mb-1">Product Name</h4>
 					<h5>$210</h5>
-					<a href="#" class="mb-4">Know More </a>
+					<a href="/" class="mb-4">Know More </a>
 				</div>
 			</div>
 			
@@ -53,7 +53,7 @@ return (
 					<img src="assets/images/s3.png" class="img-fluid" alt="" />
 					<h4 class="mb-1">Product Name</h4>
 					<h5>$210</h5>
-					<a href="#" class="mb-4">Know More </a>
+					<a href="/" class="mb-4">Know More </a>
 				</div>
 			</div>
 			
@@ -62,7 +62,7 @@ return (
 					<img src="assets/images/s5.png" class="img-fluid" alt="" />
 					<h4 class="mb-1">Product Name</h4>
 					<h5>$210</h5>
-					<a href="#" class="mb-4">Know More </a>
+					<a href="/" class="mb-4">Know More </a>
 				</div>
 			</div>
 			
@@ -71,7 +71,7 @@ return (
 					<img src="assets/images/s1.png" class="img-fluid" alt="" />
 					<h4 class="mb-1">Product Name</h4>
 					<h5>$210</h5>
-					<a href="#" class="mb-4">Know More </a>
+					<a href="/" class="mb-4">Know More </a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 mt-5">
@@ -79,7 +79,7 @@ return (
 					<img src="assets/images/s4.png" class="img-fluid" alt="" />
 					<h4 class="mb-1">Product Name</h4>
 					<h5>$210</h5>
-					<a href="#" class="mb-4">Know More </a>
+					<a href="/" class="mb-4">Know More </a>
 				</div>
 			</div>
 			
@@ -88,7 +88,7 @@ return (
 					<img src="assets/images/s3.png" class="img-fluid" alt="" />
 					<h4 class="mb-1">Product Name</h4>
 					<h5>$210</h5>
-					<a href="#" class="mb-4">Know More </a>
+					<a href="/" class="mb-4">Know More </a>
 				</div>
 			</div>
 		</div>
